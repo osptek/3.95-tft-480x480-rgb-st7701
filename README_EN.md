@@ -47,6 +47,7 @@ Repo id: `3.95-tft-480x480-rgb-st7701`
 <p align="center"><img alt="YDP395BT003-V4" src="./images/YDP395BT003-V4.png" width="320" /></p>
 
 **Notes:** With touch (FT6336U).
+
 ---
 
 ## How to Switch Branches
