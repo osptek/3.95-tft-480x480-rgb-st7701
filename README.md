@@ -46,8 +46,7 @@
 
 <p align="center"><img alt="YDP395BT003-V4" src="./images/YDP395BT003-V4.png" width="320" /></p>
 
-**说明：** 模组。
-
+**说明：** 带触摸（FT6336U）。
 ---
 
 ## 如何切换分支
