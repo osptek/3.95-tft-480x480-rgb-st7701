@@ -1,3 +1,10 @@
+/*
+ * SPDX-FileCopyrightText: Copyright 2026 OSPTEK
+ * SPDX-License-Identifier: CC-BY-4.0
+ *
+ * https://github.com/osptek
+ */
+
 #include "app_init.h"
 #include "lv_demos.h"
 #include "esp_log.h"
